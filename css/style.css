@@ -1,0 +1,51 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  color: blue;
+  font-size: 64px;
+}
+
+h1 {
+  color: red;
+  font-size: 64px;
+  text-align: center;
+}
+
+p {
+  color: orange;
+}
+
+.purple-element {
+  color: purple;
+}
+
+#immune-link {
+  color: green;
+  font-size: 10px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.section-2 {
+  background-color: yellow;
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border: 1px solid black;
+  padding-top: 24px;
+  padding-right: 12px;
+  padding-bottom: 24px;
+  padding-left: 12px;
+  padding: 24px 12px 24px 12px;
+  margin-top: 64px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
